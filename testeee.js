@@ -1,3 +1,0 @@
-function testeeeee(){
-    return true;
-};
