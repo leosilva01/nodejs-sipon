@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-sipon",
+  "version": "1.0.0",
+  "description": "controla ponto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leosilva01/nodejs-sipon.git"
+  },
+  "keywords": [
+    "node",
+    "sipon",
+    "ponto"
+  ],
+  "author": "Léo Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leosilva01/nodejs-sipon/issues"
+  },
+  "homepage": "https://github.com/leosilva01/nodejs-sipon#readme"
+}
