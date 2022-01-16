@@ -6,17 +6,12 @@
   "scripts": {
     "test": "jest"
   },
-  "lint-staged": {
-    "*.js": [
-      "standard --fix",
-      "git add"
-    ]
+  "author": "Léo Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leosilva01/nodejs-sipon/issues"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
+  "homepage": "https://github.com/leosilva01/nodejs-sipon#readme",
   "repository": {
     "type": "git",
     "url": "https://github.com/leosilva01/nodejs-sipon.git"
@@ -26,12 +21,6 @@
     "sipon",
     "ponto"
   ],
-  "author": "Léo Silva",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/leosilva01/nodejs-sipon/issues"
-  },
-  "homepage": "https://github.com/leosilva01/nodejs-sipon#readme",
   "devDependencies": {
     "husky": "^7.0.4",
     "jest": "^27.4.7",
